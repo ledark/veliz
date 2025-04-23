@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="refresh" content="0; url=https://www.linkedin.com/in/jhenny-mamani">
-    <title>Redirecting...</title>
+    <title>Redirecionando...</title>
 </head>
 <body>
-    <p>If you are not redirected automatically, please <a href="https://www.linkedin.com/in/jhenny-mamani">click here</a>.</p>
+    <p>Se você não for redirecionado automaticamente, <a href="https://www.linkedin.com/in/jhenny-mamani">click aqui</a>.</p>
 </body>
 </html>
